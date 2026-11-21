@@ -74,12 +74,14 @@ section {
 
 
 #home {
-    background: #fce7f3;
-    color: #831843;
-    min-height: 85vh;
-    display: flex;
-    align-items: center;
+  background: pink;
+  color: #111827;
+  min-height: auto;
+  padding: 40px 8%;
+  display: flex;
+  align-items: center;
 }
+
 
 .home-content {
     max-width: 700px;
