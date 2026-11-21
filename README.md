@@ -18,4 +18,3 @@ Allowance Budget is a mobile application built for college students to manage th
 ## Author
 - **Name:** Ellen Joy Dagdagan
 - **Section:** BSINTE 2A
-- 
