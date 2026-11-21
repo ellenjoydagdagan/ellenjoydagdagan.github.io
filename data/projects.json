@@ -10,10 +10,12 @@
   },
   {
     "title": "Allowance Budget",
-    "description": "Record money in money out show the balance. Built for college students.",
+    "description": "Record money in and money out and show the balance. Built for college students.",
     "technologies": ["FlutterFlow"],
     "role": "Programmer",
-    "screenshot": "N/A",
+    "screenshot": "",
     "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io",
-    "demo": "https://app.flutterflow.io/run/vbcS9Bp9Vv2i9U9x4duR"
+    "demo": "https://app.flutterflow.io/run/xbc538P4V2tR1R9xldu9"
   }
+]
+
