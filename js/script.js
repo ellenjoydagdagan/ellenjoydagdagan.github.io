@@ -62,7 +62,15 @@ async function loadProjects() {
                 link.rel = "noopener noreferrer";
                 card.appendChild(link);
             }
-
+if (project.demo) {
+  const demoLink = document.createElement("a");
+  demoLink.href = project.demo;
+  demoLink.textContent = "Open App Demo";
+  demoLink.target = "_blank";
+  demoLink.rel = "noopener noreferrer";
+  card.appendChild(demoLink);
+}
+            
             projectList.appendChild(card);
         });
     } catch (error) {
