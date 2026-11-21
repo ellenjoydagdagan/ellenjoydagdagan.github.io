@@ -9,21 +9,11 @@
     "demo": ""
   },
   {
-    "title": "Digit Counter",
-    "description": "A Java program that counts the digits of a positive integer using a while loop.",
-    "technologies": ["Java"],
+    "title": "Allowance Budget",
+    "description": "Record money in money out show the balance. Built for college students.",
+    "technologies": ["FlutterFlow"],
     "role": "Programmer",
-    "screenshot": "digit-counter.png",
+    "screenshot": "N/A",
     "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io",
-    "demo": ""
-  },
-  {
-    "title": "Student Attendance System",
-    "description": "A project concept for recording and organizing student attendance.",
-    "technologies": ["HTML", "CSS", "Java"],
-    "role": "Student Developer",
-    "screenshot": "attendance.png",
-    "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io",
-    "demo": ""
+    "demo": "https://app.flutterflow.io/run/vbcS9Bp9Vv2i9U9x4duR"
   }
-]
