@@ -1,19 +1,19 @@
 [
   {
-    "title": "Student Portfolio",
-    "description": "A personal website that introduces me and shows my skills and projects.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Designer and Developer",
-    "screenshot": "portfolio.png",
-    "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io",
+    "title": "Student Portfolio"
+    "description": "A personal website that introduces me and shows my skills and projects."
+    "technologies": ["HTML", "CSS", "JavaScript"]
+    "role": "Designer and Developer"
+    "screenshot": "portfolio.png"
+    "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io"
     "demo": ""
   },
   {
-    "title": "Allowance Budget",
-    "description": "Record money in money out show the balance. Built for college students.",
-    "technologies": ["FlutterFlow"],
-    "role": "Programmer",
-    "screenshot": "N/A",
-    "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io",
+    "title": "Allowance Budget"
+    "description": "Record money in money out show the balance. Built for college students."
+    "technologies": ["FlutterFlow"]
+    "role": "Programmer"
+    "screenshot": "N/A"
+    "github": "https://github.com/ellenjoydagdagan/ellenjoydagdagan.github.io"
     "demo": "https://app.flutterflow.io/run/vbcS9Bp9Vv2i9U9x4duR"
   }
